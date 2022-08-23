@@ -25,7 +25,7 @@ margin-right:190px;
 /*styling navigation bar*/
 .nav {
   overflow: hidden;
-  background-color: #FFD5CC;
+  background-color: #87C5E7;/*#FFD5CC;*/
 }
 
 .nav a {
@@ -35,7 +35,7 @@ margin-right:190px;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-margin-left: 150px;
+margin-left: 110px;
 display: flex;
 }
 
@@ -58,7 +58,7 @@ display: flex;
 
 /*Styling Gtes section*/
 .gtes {
-  background-image: url("confetti.jpg");
+  /*background-image: url("confettiblue.jpg");*/
 margin-top: -2px;
 }
 
