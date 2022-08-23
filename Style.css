@@ -25,7 +25,7 @@ margin-right:190px;
 /*styling navigation bar*/
 .nav {
   overflow: hidden;
-  background-color: #87C5E7;/*#FFD5CC;*/
+  background-color: #87C5E7;
 }
 
 .nav a {
@@ -457,6 +457,7 @@ top:0;
   transition: max-height 0.2s ease-out;
   background-color: #f1f1f1;
 width: 42.2%;
+text-align: left;
 }
 
 .techs_col2{

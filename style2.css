@@ -117,13 +117,15 @@ margin-top: -10px;
 width: 100%;
 text-align: center;
 padding: 30px 0;
+color: white;
+list-style-type: none;
 }
 .footer .p{
 list-style-type: none;
 margin-top: 5px;
 font-color:white;
 }
-.icons .fa{
-color: white;
+.footer .icons {
+color: red;
 cursor: pointer;
 }
